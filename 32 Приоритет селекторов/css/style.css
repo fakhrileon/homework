@@ -1,0 +1,10 @@
+.block {
+    width: 500px;
+    height: 500px;
+    background: #000; 
+}
+
+div.block {
+    background: greenyellow;
+}
+
